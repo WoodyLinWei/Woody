@@ -46,7 +46,7 @@ $(function () {
     Typed js Active
 =========================================================================*/
   $(".typed").typed({
-    strings: ["Woody Lin"],
+    strings: ["目前正在轉職", "Java後端工程師"],
     loop: true,
     typeSpeed: 150,
   });
